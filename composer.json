@@ -1,0 +1,8 @@
+{
+  "name": "avangate/avangate-php-jsonrpc-code-samples",
+  "description": "JSON-RPC Code Samples for API v3.0",
+  "license": "MIT",
+  require: {
+    
+  }
+}
